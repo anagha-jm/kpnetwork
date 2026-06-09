@@ -1,0 +1,6 @@
+Flask>=2.3.0
+Flask-Cors>=3.0.10
+requests>=2.31.0
+psutil>=5.9.5
+scapy>=2.5.0
+pywinrm>=0.4.3

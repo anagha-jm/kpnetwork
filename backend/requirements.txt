@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+psutil
+paramiko
+pydantic
+python-dotenv
